@@ -15,6 +15,7 @@ You are welcome to add useful one time utilities (tests) for pretty much anythin
  - Code should be written in a manner where the code yields sufficient meaning to any programmer of decent skill. If this is not possible, comment as much as is necessary to bring to such a level
  - Don't worry about optimizing your code. However, if you do want to optimize some code while keeping the clarity intact, be my guest.
  
+One more thing: programs **don't** have to be written in the same language as they are testing for. They simply must be written in a related language  (ie: almost all developers of that language use or have used it to do something for a program written in said language). For instance, writing a script to check for something related to C would be okay to do using the shell (it is assumed that the user is using some sort of *nix compatible environment), but it would not be okay to use Javascript to check for something related to PHP.
  
 Allowed Proprietary Languages
 =============================
